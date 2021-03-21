@@ -1,0 +1,23 @@
+{
+    "atomType": "Molecule",
+    "name": "test project",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 672043,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9850187265917604,
+            "y": 0.5,
+            "uniqueID": 501404,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
